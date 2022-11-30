@@ -4,6 +4,8 @@ Design de site de restaurante de sushi responsivo usando HTML, CSS e JavaScript.
 
 Desenvolvido primeiro com a metodologia Mobile First, depois para desktop. Compatível com todos os dispositivos móveis e com uma interface de usuário bonita e agradável.
 
+![Sushi Website](/assets/img/sushiwebsite.png "Sushi Website")
+
 Veja o projeto no [Github Pages](https://natanaelsc.github.io/sushi).
 
 ## Bibliotecas
